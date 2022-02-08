@@ -86,3 +86,19 @@ npm run data:import
 # Destroy data
 npm run data:destroy
 ```
+
+
+```
+Sample User Logins
+
+Fill Register Page and create own account   (Customer)
+
+admin@example.com (Admin)
+123456
+
+ali@example.com (Customer)
+123456
+
+
+
+```
