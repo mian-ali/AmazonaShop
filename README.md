@@ -2,8 +2,9 @@
 
 > Build Ecommerce App Like Amazon By MERN Stack
 
-## Live Prview Project
-[Demo Project](https://amazonashop.herokuapp.com/)
+## Live Prview Project 
+- Production Link Change due to Heroku Free tire closed move Heroku to cyclic.sh
+[Demo Project](https://fancy-scarf.cyclic.app//)
 
 
 ## Features
