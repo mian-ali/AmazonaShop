@@ -10,7 +10,9 @@ node_modules/
 /coverage
 
 # production
-/frontend/build
+
+# send another Platfrom all code due to heroku free tire end 
+# /frontend/build
 
 # misc
 .DS_Store
