@@ -3,7 +3,7 @@
 > Build Ecommerce App Like Amazon By MERN Stack
 
 ## Live Prview Project 
-- Production Link Change due to Heroku Free tire closed move Heroku to cyclic.sh
+- Production Link Change due to Heroku Free tire account closed move Heroku to cyclic.sh
 [Demo Project](https://fancy-scarf.cyclic.app//)
 
 
