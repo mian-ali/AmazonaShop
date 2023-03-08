@@ -85,7 +85,6 @@ npm run data:import
 npm run data:destroy
 ```
 
-
 ```
 Sample User Logins
 
@@ -96,7 +95,5 @@ admin@example.com (Admin)
 
 ali@example.com (Customer)
 123456
-
-
 
 ```
