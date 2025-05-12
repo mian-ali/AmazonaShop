@@ -1,6 +1,6 @@
 # AmazonaShop
 
-> Build Ecommerce App Like Amazon By MERN Stack
+> Build e-commerce app Like Amazon By MERN Stack
 
 ## Live Prview Project 
 - Production Link Change due to Heroku Free tire account closed move Heroku to cyclic.sh
