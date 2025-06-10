@@ -1,15 +1,15 @@
 # AmazonaShop
 
-> Build Ecommerce App Like Amazon By MERN Stack
+> Build an e-commerce app Like Amazon By MERN Stack
 
-## Live Prview Project 
-- Production Link Change due to Heroku Free tire account closed move Heroku to cyclic.sh
+## Live Preview Project 
+- Production Link Change due to Heroku Free tyre account closed move Heroku cyclic.sh
 [Demo Project](https://fancy-scarf.cyclic.app//)
 
 
 ## Features
 
-- Full featured shopping cart
+- Full-featured shopping cart
 - Product reviews and ratings
 - Top products carousel
 - Product pagination
@@ -18,7 +18,7 @@
 - Admin product management
 - Admin user management
 - Admin Order details page
-- Mark orders as delivered option
+- Mark orders as a delivered option
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
@@ -27,15 +27,15 @@
 
 ### ES Modules in Node
 
-We use ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
+We use ECMAScript Modules in the backend of this project. Ensure you have at least Node v14.6 or higher; otherwise, you will need to add the "--experimental-modules" flag.
 
 Also, when importing a file (not a package), be sure to add .js at the end or you will get a "module not found" error
 
-You can also install and setup Babel if you would like
+You can also install and set Babel if you would like
 
 ### Env Variables
 
-Create a .env file in then root and add the following
+Create a .env file in the root and add the following
 
 ```
 NODE_ENV = development
@@ -68,7 +68,7 @@ cd frontend
 npm run build
 ```
 
-There is a Heroku postbuild script, so if you push to Heroku, no need to build manually for deployment to Heroku
+There is a Heroku post-build script, so if you push to Heroku, no need to build manually for deployment to Heroku
 
 ### Seed Database
 
